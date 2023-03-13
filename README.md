@@ -22,5 +22,7 @@ OpenWeather API: https://openweathermap.org/api
 Tecnologias utilizadas:
 
 html
+
 javascript
+
 css
