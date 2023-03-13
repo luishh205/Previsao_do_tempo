@@ -7,8 +7,11 @@ a temperatura atual, a descrição do clima e as temperaturas máxima e mínima.
 Para utilizar a página, basta seguir os seguintes passos:
 
 Clone o repositório ou baixe o código-fonte.
+
 Abra o arquivo index.html no seu navegador web.
+
 Digite o nome de uma cidade no campo de entrada de pesquisa e pressione Enter ou clique no botão de pesquisa.
+
 A previsão do tempo da cidade será exibida na página.
 
 
